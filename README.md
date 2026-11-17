@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved to [IvanStrazov/animus-journal](https://github.com/IvanStrazov/animus-journal)** and is now part of the Animus ecosystem. This copy is frozen at 0.2.0 and gets no updates.
+>
+> To switch: `/plugin marketplace add IvanStrazov/animus-journal`, then `/plugin install animus-journal@animus-journal`, then uninstall `claude-journal`. Your data is untouched.
+
 # claude-journal
 
 [![tests](https://github.com/IvanStrazov/claude-journal/actions/workflows/test.yml/badge.svg)](https://github.com/IvanStrazov/claude-journal/actions/workflows/test.yml)
